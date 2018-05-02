@@ -13,6 +13,7 @@
 		C2FB4DAA2097B6EB001A71C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2FB4DA82097B6EB001A71C3 /* Main.storyboard */; };
 		C2FB4DAC2097B6EC001A71C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2FB4DAB2097B6EC001A71C3 /* Assets.xcassets */; };
 		C2FB4DAF2097B6EC001A71C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2FB4DAD2097B6EC001A71C3 /* LaunchScreen.storyboard */; };
+		C2FB4DB72097C0D0001A71C3 /* placeholder.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C2FB4DB62097C0D0001A71C3 /* placeholder.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C2FB4DAB2097B6EC001A71C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2FB4DAE2097B6EC001A71C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2FB4DB02097B6EC001A71C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2FB4DB62097C0D0001A71C3 /* placeholder.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = placeholder.jpeg; path = ../../../../Desktop/placeholder.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C2FB4DA42097B6EB001A71C3 /* FirstViewController.swift */,
 				C2FB4DA62097B6EB001A71C3 /* SecondViewController.swift */,
 				C2FB4DA82097B6EB001A71C3 /* Main.storyboard */,
+				C2FB4DB62097C0D0001A71C3 /* placeholder.jpeg */,
 				C2FB4DAB2097B6EC001A71C3 /* Assets.xcassets */,
 				C2FB4DAD2097B6EC001A71C3 /* LaunchScreen.storyboard */,
 				C2FB4DB02097B6EC001A71C3 /* Info.plist */,
@@ -129,6 +132,7 @@
 				C2FB4DAF2097B6EC001A71C3 /* LaunchScreen.storyboard in Resources */,
 				C2FB4DAC2097B6EC001A71C3 /* Assets.xcassets in Resources */,
 				C2FB4DAA2097B6EB001A71C3 /* Main.storyboard in Resources */,
+				C2FB4DB72097C0D0001A71C3 /* placeholder.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
